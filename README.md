@@ -43,3 +43,7 @@ RenterApp is a comprehensive mobile platform designed to streamline the vehicle 
 4. 📱 Install Expo Go on your Emulator or actual mobile phone.
 
 5. 📸 Scan the App QR code from the running app and calculate your savings!
+
+## 🧪 Testing
+
+- For testing purposes, test credentials  are already provided on the login screen for both **OwnerApp** and **RenterApp**. You can use these credentials to log in and test the app.
